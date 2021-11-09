@@ -1,0 +1,27 @@
+/* Selector {
+
+    Property: value;
+} */
+
+body {
+    
+    background-size: cover;
+    background-image: linear-gradient( 103.3deg,  rgba(252,225,208,1) 30%, rgba(255,173,214,1) 55.7%, rgba(162,186,245,1) 81.8% );
+    
+}
+
+h1 {
+
+    color: navy;
+    text-align: center;
+    cursor: pointer;
+    font-family:'Courier New', Courier, monospace;
+}
+
+
+
+
+     img {
+
+        text-align: center;
+     }
